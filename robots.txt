@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AEROkrish.github.io/sitemap.xml
+Sitemap: https://krishnendu.haldar.ac.in/sitemap.xml
