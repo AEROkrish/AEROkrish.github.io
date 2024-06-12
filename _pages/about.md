@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: Department of Aerospace Engineering, IIT Bombay
 
 profile:
