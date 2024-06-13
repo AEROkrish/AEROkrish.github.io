@@ -20,4 +20,3 @@ I am an Associate Professor in the Department of Aerospace Engineering at IIT Bo
 ---
 My research interests are continuum mechanics of solids and electromagnetic coupling, modeling and simulation of multi-functional material systems, experiments, and some biomechanics.
 
----
