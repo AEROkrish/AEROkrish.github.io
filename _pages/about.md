@@ -15,11 +15,6 @@ profile:
     <p>krishnendu@aero.iitb.ac.in</p>
     
 layout: cv
-permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
 
 announcement: true # includes a list of news items
 ---
