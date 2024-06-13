@@ -15,7 +15,6 @@ profile:
     <p>krishnendu@aero.iitb.ac.in</p>    
 
 ---
-layout: about
 title: CV
 
 ---
