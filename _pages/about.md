@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.wikipedia.org/wiki/Johann_Sebastian_Bach'>Affiliations</a> Department of Aerospace Engineering, IIT Bombay
+subtitle: <a href='https://www.aero.iitb.ac.in/home/'> Department of Aerospace Engineering</a>,<a href='https://www.iitb.ac.in/'> IIT Bombay</a> 
 
 profile:
   align: right
