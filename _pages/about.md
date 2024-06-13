@@ -19,3 +19,7 @@ I am an Associate Professor in the Department of Aerospace Engineering at IIT Bo
 
 ---
 CV
+nav: true
+nav_order: 5
+cv_pdf: example_pdf.pdf
+
