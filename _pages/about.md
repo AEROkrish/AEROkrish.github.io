@@ -14,6 +14,8 @@ profile:
     <p>Tel +91 22 25767114</p>
     <p>krishnendu@aero.iitb.ac.in</p>    
 
+---
+layout: about
 title: CV
 
 ---
