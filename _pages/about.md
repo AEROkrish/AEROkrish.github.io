@@ -2,17 +2,13 @@
 layout: about
 title: about
 nav: true
-nav_order: 4
+nav_order: 1
 dropdown: true
-children: 
-    - title: Repositories
-      permalink: /repositories/
-    - title: Teaching
-      permalink: /teaching/
+children:
     - title: CV
       newtab: true
       permalink: /assets/pdf/CV.pdf
-permalink: /
+
 subtitle: <a href='https://www.aero.iitb.ac.in/home/'> Department of Aerospace Engineering</a>,<a href='https://www.iitb.ac.in/'> IIT Bombay</a> 
 
 
