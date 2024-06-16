@@ -7,7 +7,7 @@ dropdown: true
 children:
     - title: CV
       newtab: true
-      permalink: /assets/pdf/CV.pdf
+      permalink: /assets/pdf/example_pdf.pdf
 permalink: /
 subtitle: <a href='https://www.aero.iitb.ac.in/home/'> Department of Aerospace Engineering</a>,<a href='https://www.iitb.ac.in/'> IIT Bombay</a> 
 
