@@ -20,3 +20,16 @@ I am an Associate Professor in the Department of Aerospace Engineering at IIT Bo
 ---
 My research interests are continuum mechanics of solids and electromagnetic coupling, modeling and simulation of multi-functional material systems, experiments, and some biomechanics.
 
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
+---
+
+
